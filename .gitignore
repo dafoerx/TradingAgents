@@ -217,3 +217,8 @@ __marimo__/
 
 # Cache
 **/data_cache/
+.translation_cache/
+
+# IDE / runtime state
+.codebuddy/
+.live_state/
